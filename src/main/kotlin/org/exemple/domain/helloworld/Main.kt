@@ -1,3 +1,5 @@
+package org.exemple.domain.helloworld
+
 fun main(args: Array<String>) {
     fun printHello(message: String): String {
         println("What's your name?")
